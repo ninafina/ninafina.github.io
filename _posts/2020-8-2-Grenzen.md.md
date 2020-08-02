@@ -3,8 +3,6 @@ layout: post
 title: Grenzen
 ---
 
-# Grenzen
-
 Grenzen haben einen fahlen, wenn nicht gar falschen Beigeschmack
 Sie schränken ein, behindern uns und halten davon ab mit andern eins zu sein.
 Ja, eins zu sein.
