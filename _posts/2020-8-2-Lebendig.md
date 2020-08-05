@@ -1,6 +1,7 @@
 ---
 layout: post
 title: In mir lebendig
+image: "" 
 ---
 
 Man redet Stuss. Immer nur Stuss und dann am Schluss denkt man, man hat es geschafft.

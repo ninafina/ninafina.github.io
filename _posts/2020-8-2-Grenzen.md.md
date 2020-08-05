@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Grenzen
+image: "" 
 ---
 
 Grenzen haben einen fahlen, wenn nicht gar falschen Beigeschmack.
