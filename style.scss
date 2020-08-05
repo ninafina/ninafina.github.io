@@ -7,6 +7,8 @@
 
 @import "reset";
 @import "variables";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap');
+
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -18,8 +20,9 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+  background: $white;
+  font: 18px/1.5 $roboto;
+  font-weight: 300;
   color: $darkGray;
 }
 
@@ -31,7 +34,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $georgia;
   color: $darkerGray;
   font-weight: bold;
 
@@ -195,8 +198,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
+  font-family: $georgia;
   font-size: 28px;
   letter-spacing: 1px;
 }
@@ -204,6 +206,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
+  font-family: $georgia;
   font-size: 16px;
 
   @include mobile {
@@ -214,7 +217,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $georgia;
   font-size: 18px;
 
   @include mobile {
