@@ -1,6 +1,3 @@
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/ninafina/ninafina.github.io/master/images/nina.jpg
-
 ---
 layout: post
 title: Grenzen
