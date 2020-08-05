@@ -3,17 +3,18 @@ layout: post
 title: Grenzen
 ---
 
-Grenzen haben einen fahlen, wenn nicht gar falschen Beigeschmack
+Grenzen haben einen fahlen, wenn nicht gar falschen Beigeschmack.
+
 Sie schränken ein, behindern uns und halten davon ab mit andern eins zu sein.
 Ja, eins zu sein.
 
 Wir streben nach Verflechtung unsrer Finger, Verbindung unsrer Körper.
-nach der Verkettung unsrer Gene, wenn nicht am Ende gar, nach der Verschmelzung unsrer Seelen.
+Nach der Verkettung unsrer Gene, wenn nicht am Ende gar, nach der Verschmelzung unsrer Seelen.
 Vereinigung des Seins.
 
 Doch da stand „Halt“, am Rande meines Ichs – es kam mir vor als taste ich mich
-suchend an einer großen Mauer lang und konnt nicht drüber sehn, 
-war hier allein. So sehr allein, so lange schon.
+suchend an einer großen Mauer lang und konnt nicht drüber sehn, war hier allein. 
+So sehr allein, so lange schon.
 
 Schlussendlich war ich doch gezwungen, mich zögernd, ängstlich umzudrehen – 
 musst anerkennen, dagegen anzurennen brachte mich sicher nicht ans Ziel.

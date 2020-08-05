@@ -4,6 +4,7 @@ title: In mir lebendig
 ---
 
 Man redet Stuss. Immer nur Stuss und dann am Schluss denkt man, man hat es geschafft.
+
 Doch da sind immer nur Stufen, Stufen, Stufen … stufen Sie sich doch bitte ein, auf einer Skala von 1-10, wie nahe sind Sie dem Glück?
 Ist das nicht verrückt? 
 Wir denken und denken und denken und versuchen das Leben zu lenken.
