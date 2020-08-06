@@ -264,6 +264,15 @@ nav {
     font-style: italic;
   }
 
+.hyphenless {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  text-align: justify;
+  width: 200px;
+}
+
   .comments {
     margin-top: 10px;
   }
